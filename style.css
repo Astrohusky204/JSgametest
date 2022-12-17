@@ -28,7 +28,7 @@
     background-color: blue;
     position: relative;
     top: 150px;
-    left: 480px;
+    right: 480px;
 }
     animation: block 1s infinite linear;
 @keyframes block{
